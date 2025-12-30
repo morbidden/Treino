@@ -1,13 +1,13 @@
 body {
-  background-color: snow;
+    background-color: snow;
 }
 
 h1 {
-  background-color: ghostwhite;
-  border-color: black;
-  border-style: solid;
-  border-width: 2px;
-  font-family: cursive;
-  font-size: 72px;
-  text-align: center;
+    background-color: ghostwhite;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    font-family: cursive;
+    font-size: 72px;
+    text-align: center;
 }
